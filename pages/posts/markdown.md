@@ -3,7 +3,7 @@ title: Markdown Examples
 date: 2023/6/9
 description: Markdown Cheat Sheet
 tag: web development
-author: Vercel Team
+author: 
 ---
 
 # Markdown Examples
