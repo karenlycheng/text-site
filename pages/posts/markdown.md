@@ -1,9 +1,9 @@
 ---
 title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
+date: 2023/6/9
+description: Markdown Cheat Sheet
 tag: web development
-author: You
+author: Vercel Team
 ---
 
 # Markdown Examples
